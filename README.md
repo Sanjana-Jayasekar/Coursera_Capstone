@@ -14,6 +14,4 @@ The aim of this project is to select an ideal location for opening a shopping ma
 * Tableau
 
 ## Project Description
-The Geographical data is scrapped from  Wikipedia using BeautifulSoup Package in Python. Further, the latitude and longitude information is added using FourSquare API
-to get a clear picture of the location of neighborhoods and the venues. The data is segmented using k-means clustering in Python. This segments the neighborhood based on 
-its similarity and divides it into 3 clusters. Clusters with high, low and medium concentration of shopping malls.
+The Geographical data is scrapped from  Wikipedia using BeautifulSoup Package in Python. Further, the latitude and longitude information is added using FourSquare API to get a clear picture of the location of neighborhoods and the venues. The data is segmented using k-means clustering. This segments the neighborhood based on its similarity and divides it into 3 clusters. Clusters with high, low and medium concentrations of shopping malls.
