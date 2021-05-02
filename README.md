@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Coursera_Capstone - Battle of Neighborhoods
 
 #### -- Project Status: Completed
 
